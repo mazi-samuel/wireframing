@@ -74,3 +74,68 @@ Dropdowns for selecting room types or dates
 Search bars that allow filtering of available bookings
 
 🟢 Contribution: Demonstrates user interaction flow and helps developers understand system behavior early in the design process.
+
+Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are Low-Fidelity Wireframes and High-Fidelity Wireframes.
+
+1. Low-Fidelity Wireframes
+
+Low-fidelity (low-fi) wireframes are basic sketches or outlines that focus on layout, structure, and content placement without worrying about design details like colors, fonts, or images.
+They are often drawn by hand or created using simple tools.
+
+Characteristics:
+
+Minimal details, using boxes and lines for layout
+
+Focused on overall structure and functionality
+
+Quick to create and easy to modify
+
+When to Use:
+
+During the early stages of the design process
+
+When brainstorming or communicating rough ideas
+
+When you need to validate layout flow before investing time in visuals
+
+Example Use Case:
+Sketching the initial layout of a booking form showing where fields, buttons, and menus will appear.
+
+2. High-Fidelity Wireframes
+
+High-fidelity (high-fi) wireframes are more detailed and closer to the final product design. They include typography, colors, icons, and sometimes interactive elements to show realistic user interactions.
+
+Characteristics:
+
+Detailed visuals, including real content and design elements
+
+Represents the final UI design more accurately
+
+Can include clickable prototypes for testing navigation and usability
+
+When to Use:
+
+During the later stages of the design process
+
+When presenting to stakeholders or conducting usability tests
+
+When preparing for handoff to developers
+
+Example Use Case:
+Creating a clickable checkout page for the booking system that simulates how a user would confirm and pay for their booking.
+
+🎯 Type of Wireframe Used Here
+
+The wireframe used in this project is a Low-Fidelity Wireframe.
+
+Explanation:
+It focuses on the layout structure and placement of elements (like navigation, booking forms, and content areas) without incorporating detailed design elements such as color schemes or real images.
+This type of wireframe was chosen to:
+
+Quickly visualize the system’s structure
+
+Allow easy adjustments based on feedback
+
+Serve as a foundation before moving to high-fidelity mockups and prototypes
